@@ -1,0 +1,57 @@
+center{
+    text-align: center;
+    font-family: cursive;
+    padding-top: 1px;
+    }
+
+h1{
+    padding-top: 20px;
+    font-size: 30px;
+}
+
+div{
+    display: grid;
+    justify-content: center; 
+    padding-right: 60px;
+    padding-left: 60px;
+    padding-bottom: 20px;
+    border-radius: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    text-align: center;
+    font-size: 45px;
+    color: deeppink;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.column{
+    border: 7px solid #990052;
+    background-color: whitesmoke;
+    margin-bottom: 10px;
+    width: 80px;
+    font-weight: bold;
+    height: 80px;
+
+}
+
+.column:hover{
+    background-color: rgb(255, 200, 233);
+}
+
+h2{
+    margin-right: 100px;
+    margin-left: 100px;
+    padding-top: 15px;
+    
+}
+
+.grid{
+    background-color: deeppink;
+
+}
+
+.resetButton{
+    border: 7px solid #990052;
+    background-color: whitesmoke;
+    border-radius: 50px;
+}
